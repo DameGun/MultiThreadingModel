@@ -1,1 +1,3 @@
-# SysLab2WPF
+# MultiThreadingModel
+This project was part of the laboratory task for System Programming course. The conditions was to built imitation of multi thread model with specifiyed difficulty parameter, threads number, number of array elements and two modes: increasing number of threads with permanent difficulty parameter or increasing this difficulty parameter without changing number of working threads. Delta value for threads or difficulty and all other needed parameters are input from user. After all operations user will see plot with details of work with current parameters.
+The project builted using WPF (Windows Presentation Forms) instead of old-fashioned WinForms in case of WPF is in high resolution and adaptive.

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysLab2WPF", "SysLab2WPF\SysLab2WPF.csproj", "{DB307A93-0C24-4D46-9A3E-4591EFC1EFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB307A93-0C24-4D46-9A3E-4591EFC1EFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB307A93-0C24-4D46-9A3E-4591EFC1EFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB307A93-0C24-4D46-9A3E-4591EFC1EFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB307A93-0C24-4D46-9A3E-4591EFC1EFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A60223-6EED-4588-A166-B01F8F8E1E29}
+	EndGlobalSection
+EndGlobal
